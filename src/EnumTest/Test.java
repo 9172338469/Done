@@ -41,6 +41,8 @@ public class Test {
 		else{
 			System.out.println("Color is not matched  ");
 						System.out.println("not matched  ");
+												System.out.println(" matched  ");
+
 
 
 		}
